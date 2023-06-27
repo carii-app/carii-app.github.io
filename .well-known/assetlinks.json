@@ -5,7 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.carii.carii",
       "sha256_cert_fingerprints": [
-        "79:C0:96:97:DE:F8:E1:45:85:03:CD:F7:10:79:E4:A5:2B:22:04:BB:2A:0D:E8:C6:16:C2:A8:71:E1:95:3F:A3"
+        "79:C0:96:97:DE:F8:E1:45:85:03:CD:F7:10:79:E4:A5:2B:22:04:BB:2A:0D:E8:C6:16:C2:A8:71:E1:95:3F:A3",
+        "0E:4A:59:34:AC:BB:AF:F1:39:ED:6B:F7:49:2C:21:09:8D:18:B6:E4:21:51:F4:E8:09:FD:8C:1D:FF:53:68:23"
       ]
     }
   }
