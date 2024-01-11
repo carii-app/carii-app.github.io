@@ -4,8 +4,8 @@
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0000",
-    "theme_color": "#FF4CAF",
-    "description": "A new Flutter project.",
+    "theme_color": "#00d186",
+    "description": "Carii Workout Trainer To Stay Healthy.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
